@@ -1,0 +1,38 @@
+.header{
+    width: 1 278;
+    height: 832px;
+}
+
+.nav{
+    width: 103px;
+    height: 832px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.nav .profil{
+    width: 99px;
+    height: 79px;
+    text-align: center;
+}
+.nav .chats{
+    width: 99px;
+    height: 73px;
+    text-align: center;
+}
+.nav .contacts{
+    width: 99px;
+    height: 67px;
+    text-align: center;
+}
+.nav .calls{
+    width: 99px;
+    height: 67px;
+    text-align: center;
+}
+.nav .settings{
+    width: 99px;
+    height: 67px;
+    text-align: center;
+}
